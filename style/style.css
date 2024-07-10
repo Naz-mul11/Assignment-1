@@ -75,3 +75,54 @@ main{
     padding: 100px;
 
 }
+.item-title{
+    
+}
+.title-l{
+    display: flex;
+}
+.title-x{
+    display: flex;
+}
+.title-a{
+    display: flex;
+    
+}
+.item-title{
+    font-size: 24px;
+    font-weight: bold;
+}
+.title-1{
+    text-align: left;
+}
+.title-2{
+    text-align: right;
+}
+.title-3{
+    text-align: left;
+}
+.heading{
+    font-size: 32px;
+    font-weight: 900;
+}
+.new{
+    text-align: center;
+}
+.skill-con{
+    display: flex;
+    margin-top: 48px;
+    justify-content: space-between;
+}
+.skill-title{
+    font-size: 24px;
+    font-weight: 900;
+}
+.btn3{
+     font-size: 16px;
+     font-weight: 800;
+}
+.foot{
+    text-align: center;
+    margin-top: 100px;
+    
+}
